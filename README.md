@@ -6,4 +6,4 @@ Retail trading volume is implemented in <a href="https://onlinelibrary.wiley.com
 
 The "pre201610" file is for TAQ data 10/20/2016 and earlier, and the "post201610" file is for TAQ data 10/21/2016 and later.
 
-The two files contain code to calculate several additional measures not used in the paper (e.g., trade size-based measures) as well.
+The two files contain code to calculate several additional measures not used in the paper (e.g., trade size-based measures) as well. Please read the files carefully for further instructions and assumptions made.
